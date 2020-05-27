@@ -11,7 +11,7 @@
 <%
 request.setCharacterEncoding("UTF-8");
 //폼값받기
-/////////필수파라미터
+/////////필수파라미터를 위에 include로 받고 있으므로 또 받을 필요가 없다.
 //String bname = request.getParameter("bname"); 
 
 String num = request.getParameter("num"); 
