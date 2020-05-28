@@ -48,7 +48,7 @@ public class MemberDTO {
 		this.regidate = regidate;
 	}
 	/*
-	Object클래스에서 제공하는 메소들로 객체를 문자열형태로 변형해서
+	Object클래스에서 제공하는 메소드들로 객체를 문자열형태로 변형해서
 	반환해주는 역할을 한다. toString()메소드를 오버라이딩하면
 	객체 자체를 그대로 print()하는것이 가능하다.
 	*/
