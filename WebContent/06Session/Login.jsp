@@ -70,7 +70,7 @@ if(session.getAttribute("USER_ID")==null){
 				<br />
 				즐거운 시간 보내세요 ^^*
 				<br />
-				<a href="Logout.jsp">[로그아웃]</a>
+				<a href="logout.jsp">[로그아웃]</a>
 			</td>
 		</tr>
 	</table>
